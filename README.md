@@ -1,5 +1,5 @@
 # Rental-Mobil
-Rental Mobil Berbasis website ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik.
+Rental Mobil Berbasis website ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik. Sehingga dapat melakukan pemesanan kendaraan sesuai kebutuhan.
 
 To access admin page, add url /admin. Example http://localhost/rental_eria/admin
 
@@ -15,8 +15,8 @@ To access admin page, add url /admin. Example http://localhost/rental_eria/admin
 |   Level   |     Username      | Password |
 |:---------:|:-----------------:|---------:|
 | Admin     |  admin            | admin    |
-| User      |  yusuf@gmail.com  | yusuf    |
+| User      |  muchib@gmail.com  | muchib    |
 
 ## Sistem Requirement
 - Database MySQL
-- XAMPP / PHP 5.6
+- XAMPP / PHP 5.6 
