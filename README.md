@@ -39,4 +39,4 @@ https://linksharing.samsungcloud.com/bkrnh24EHZ9t
 
 ## Log coding
 
-https://linksharing.samsungcloud.com/s2QxFUOQSLWx
+https://linksharing.samsungcloud.com/qNK9hiMm2HBc
