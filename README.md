@@ -39,4 +39,7 @@ https://linksharing.samsungcloud.com/bkrnh24EHZ9t
 
 ## Log coding
 
+
+https://linksharing.samsungcloud.com/contents/view?contentsToken=1716611331203LZtGst3&currentIndex=1&linkUrlVersion=V1#/
+
 https://linksharing.samsungcloud.com/qNK9hiMm2HBc
