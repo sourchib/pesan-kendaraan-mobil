@@ -39,4 +39,4 @@ https://www.mediafire.com/folder/fvocwu8ya65fu/aplikasi
 
 ## Log coding
 
-https://linksharing.samsungcloud.com/qNK9hiMm2HBc
+https://www.mediafire.com/view/51p899kmsmyebxy/Screenshot_20240525-112945_Termux.jpg/file
