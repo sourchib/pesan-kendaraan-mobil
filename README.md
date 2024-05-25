@@ -7,12 +7,14 @@ To access admin page, add url /admin. Example http://localhost/rental_eria/admin
 
 https://linksharing.samsungcloud.com/sgeaqnuhEA2q
 
+## Tampilan Aplikasi
+
 ## Admin Account
 |   Level   |     Username      | Password |
 |:---------:|:-----------------:|---------:|
 | Admin     |  admin            | admin    |
-| User      |  muchib@gmail.com  | muchib    |
+| User      |  muchib@gmail.com  | yusuf    |
 
 ## Sistem Requirement
-- Database MySQL
-- XAMPP / PHP 5.6 
+- Database MySQL/MariaDB
+- XAMPP / PHP 5.6+
