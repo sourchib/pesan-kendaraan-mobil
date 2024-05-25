@@ -3,11 +3,11 @@ Rental Mobil Berbasis website ini memiliki tampilan yang sederhana dan fitur yan
 
 To access admin page, add url /admin. Example http://localhost/admin
 
-## Tampilan Diagram Class
+## Diagram Class
 
 https://linksharing.samsungcloud.com/sgeaqnuhEA2q
 
-## Tampilan Aplikasi
+## Aplikasi
 
 https://linksharing.samsungcloud.com/bkrnh24EHZ9t
 
