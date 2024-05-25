@@ -6,7 +6,7 @@ To access admin page, add url /admin. Example http://localhost/admin
 ## Diagram Class
 
 
-https://www.mediafire.com/file/82inr6ofe5r5lbr/Diagram+Tanpa+Judul.drawio.png/file
+https://www.mediafire.com/file/82inr6ofe5r5lbr/Diagram+Tanpa+Judul.drawio.png
 
 ## Aplikasi
 
