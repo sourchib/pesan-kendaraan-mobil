@@ -1,4 +1,4 @@
-1# Rental-Mobil
+91# Rental-Mobil
 Rental Mobil Berbasis website ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik. Sehingga dapat melakukan pemesanan kendaraan sesuai kebutuhan.
 
 To access admin page, add url /admin. Example http://localhost/rental_eria/admin
@@ -36,3 +36,7 @@ https://linksharing.samsungcloud.com/bkrnh24EHZ9t
 ## Testing
 - Login dashboard url : localhost/admin
 - Url rental car : localhost
+
+## Log coding
+
+https://linksharing.samsungcloud.com/s2QxFUOQSLWx
