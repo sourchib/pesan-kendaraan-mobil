@@ -22,7 +22,7 @@ https://linksharing.samsungcloud.com/bkrnh24EHZ9t
 - XAMPP / PHP 5.6+
 - Ubuntu or Windows
 
-##Step
+## Step
 - Install apache2 : apt-get install apache2 libapache2-mod-php5.6
 - Install php5.6 : apt-get install php5.6 php5.6-mysql php5.6-json php5.6-cli php5.6-gd php5.6-curl php5.6-imagick php5.6-fpm php5.6-mcrypt php5.6-mbstring php-pear php5.6-xmlrpc php5.6-imap 
 - Install mariadb : apt-get install mariadb-server
