@@ -9,7 +9,7 @@ https://www.mediafire.com/view/82inr6ofe5r5lbr/Diagram_Tanpa_Judul.drawio.png
 
 ## Aplikasi
 
-https://linksharing.samsungcloud.com/bkrnh24EHZ9t
+https://www.mediafire.com/folder/fvocwu8ya65fu/aplikasi
 
 ## Admin Account
 |   Level   |     Username      | Password |
