@@ -1,4 +1,4 @@
-91# Rental-Mobil
+## Rental-Mobil
 Rental Mobil Berbasis website ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik. Sehingga dapat melakukan pemesanan kendaraan sesuai kebutuhan.
 
 To access admin page, add url /admin. Example http://localhost/admin
